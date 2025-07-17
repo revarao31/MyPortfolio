@@ -44,7 +44,7 @@ This is not just a portfolio—it's an interactive experience. From animated cur
 
 ## 🌍 Live Demo
 
-🔗 **[View Portfolio on Netlify](https://revarao.vercel.app/)**  
+🔗 **[View Portfolio on vercel](https://revarao.vercel.app/)**  
 📁 **GitHub Repo**: [github.com/revarao31/portfolio](https://github.com/revarao31/Myportfolio)
 
 ---
